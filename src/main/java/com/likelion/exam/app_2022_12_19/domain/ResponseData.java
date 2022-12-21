@@ -1,4 +1,4 @@
-package com.likelion.exam.app_2022_12_19.domain.dto;
+package com.likelion.exam.app_2022_12_19.domain;
 
 import lombok.AllArgsConstructor;
 

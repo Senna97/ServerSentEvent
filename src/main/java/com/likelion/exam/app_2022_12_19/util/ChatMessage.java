@@ -1,4 +1,4 @@
-package com.likelion.exam.app_2022_12_19.domain;
+package com.likelion.exam.app_2022_12_19.util;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
